@@ -31,30 +31,6 @@ It is a MVP so it has limited features.
 
 ## ⚙️ Installation & Setup
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/project-name.git
-```
-
-2. Navigate to the project:
-
-```bash
-cd project-name
-```
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Run the project:
-
-```bash
-npm start
-```
-
 ---
 
 ## 📸 Screenshots
