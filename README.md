@@ -37,6 +37,9 @@ It is a MVP so it has limited features.
 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/1eb0fa1e-8a6a-4bcd-8911-817a5d8d37af" />
 
+<img width="1344" height="872" alt="image" src="https://github.com/user-attachments/assets/4747dba2-73da-4d3c-ac37-a178a0842f8b" />
+
+
 ---
 
 ## 🌐 Live Demo
